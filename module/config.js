@@ -1,5 +1,4 @@
 export const fist = {}
+export const F = 'FIST Ultra';
 
 fist.title = "fist.title";
-
-export const F = game.i18n.localize(fist.title);

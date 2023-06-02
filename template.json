@@ -1,6 +1,15 @@
 {
     "Actor": {
-        "types": [ "Mercenary" ] 
+        "types": [ 
+            "Mercenary" 
+        ] 
     },
-    "Item": {}
+    "Item": {
+        "types": [
+            "Trait",
+            "Item",
+            "Wearable",
+            "Weapon"
+        ]
+    }
 }
